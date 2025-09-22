@@ -1,6 +1,6 @@
 # AI CLI Translator (Go)
 
-A Go CLI tool that translates human language commands to Linux commands using OpenRouter AI models.
+A Go CLI tool that translates human language commands to CLI commands using OpenRouter AI models.
 
 ## Features
 
@@ -22,11 +22,6 @@ Set the OPENROUTER_API_KEY environment variable:
 **Linux/macOS:**
 ```bash
 export OPENROUTER_API_KEY=your_api_key_here
-```
-
-**Windows Command Prompt:**
-```cmd
-set OPENROUTER_API_KEY=your_api_key_here
 ```
 
 **Windows PowerShell:**
